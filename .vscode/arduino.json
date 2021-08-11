@@ -1,5 +1,6 @@
 {
     "sketch": "buggy.ino",
     "board": "arduino:avr:uno",
-    "programmer": "arduino:avrispmkii"
+    "programmer": "arduino:arduinoisp",
+    "port": "COM5"
 }
